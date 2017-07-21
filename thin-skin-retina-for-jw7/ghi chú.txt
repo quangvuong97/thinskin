@@ -1,0 +1,2 @@
+skin: {name: "thin", url:"https://rawgit.com/quangvuong97/skin-jwplayer/master/nhacnhuquynh/thin-skin-retina-for-jw7/thin-blue.min.css"},
+key: <script type="text/javascript">jwplayer.key="Ywok59g9j93GtuSU7+axNzjIp/TBfiK4s0vvYg==";</script>
